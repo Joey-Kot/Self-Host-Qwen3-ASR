@@ -1,0 +1,5 @@
+# Local Python runtime and downloaded model artifacts
+.venv/
+.cache/
+models/
+__pycache__/
